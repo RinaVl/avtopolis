@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rinavl.github.io/avtopolis/sitemap.xml
